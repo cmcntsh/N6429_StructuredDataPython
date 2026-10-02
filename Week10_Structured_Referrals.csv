@@ -1,0 +1,13 @@
+referral_id,patient_id,clinic_code,service_type,priority,referral_date,due_date,completion_date
+R001,P001,c01,Medication review,routine,08/03/2026,2026-08-17,2026-08-13
+R002,P002,riverbend,social work,Routine,2026-08-05,2026-08-19,2026-08-18
+R003,P003,c03,Nutrition,High,2026-08-07,2026-08-14,2026-08-14
+R004,P004,c01,Care coordination,Routine,08/09/2026,2026-08-23,2026-08-21
+R005,P005,riverbend,Medication review,Routine,2026-08-11,2026-08-25,2026-08-26
+R006,P006,c03,social work,high,2026-08-13,2026-08-20,2026-08-23
+R007,P007,c01,Nutrition,Routine,08/15/2026,2026-08-29,
+R008,P008,riverbend,Care coordination,Routine,2026-08-17,2026-08-31,2026-09-03
+R009,P009,c03,Medication review,High,2026-08-19,2026-08-26,2026-09-01
+R010,P010,c01,social work,Routine,08/21/2026,2026-09-04,2026-08-31
+R011,P011,riverbend,Nutrition,routine,2026-08-23,2026-09-06,2026-09-05
+R012,P012,c03,Care coordination,High,2026-08-25,2026-09-01,2026-09-01
